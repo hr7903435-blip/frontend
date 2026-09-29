@@ -105,6 +105,7 @@ button {
 
 /* ================= HERO ================= */
 
+
 .hero {
     min-height: 520px;
     padding: 80px 8%;
@@ -115,8 +116,8 @@ button {
 
     background:
         linear-gradient(
-            rgba(255, 245, 235, 0.88),
-            rgba(255, 245, 235, 0.88)
+            rgba(0, 0, 0, 0.1),
+            rgba(0, 0, 0, 0.1)
         ),
         url("/images/background-img.jpg");
 

@@ -1,4 +1,4 @@
-import logo from "../images/food-logo.png";
+// import logo from "./images/foodie-logo.png";
 
 import React, { useState } from "react";
 import "./App.css";
@@ -227,10 +227,10 @@ export default function App() {
 
       <a href="#home" className="logo">
   <img
-    src={logo}
-    alt="Foodie Logo"
-    className="logo-icon"
-  />
+  src="/images/foodie-logo.png"
+  alt="Foodie Logo"
+  className="logo-icon"
+/>
 
   <span>Foodie</span>
   
