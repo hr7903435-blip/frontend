@@ -106,25 +106,24 @@ button {
 /* ================= HERO ================= */
 
 .hero {
-  min-height: 520px;
-  padding: 80px 8%;
-  display: flex;
-  align-items: center;
-  justify-content: center;
-  text-align: center;
+    min-height: 520px;
+    padding: 80px 8%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
 
-  background:
-    linear-gradient(
-      rgba(255, 245, 235, 0.88),
-      rgba(255, 245, 235, 0.88)
-    ),
-    url("/background-img.jpg");
+    background:
+        linear-gradient(
+            rgba(255, 245, 235, 0.88),
+            rgba(255, 245, 235, 0.88)
+        ),
+        url("/images/background-img.jpg");
 
-  background-size: cover;
-  background-position: center;
-  background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
 }
-
 .hero-content {
   width: 100%;
   max-width: 850px;
