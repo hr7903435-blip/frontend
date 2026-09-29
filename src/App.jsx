@@ -1,4 +1,4 @@
-import logo from "../images/foodie-logo.png";
+import logo from "../images/food-logo.png";
 
 import React, { useState } from "react";
 import "./App.css";
